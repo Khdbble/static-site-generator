@@ -1,0 +1,6 @@
+# generator itself
+ssg
+
+# generated output
+*.html
+
