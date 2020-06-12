@@ -1,7 +1,7 @@
 # static-site-generator
-This is a golang project converting markdown to html
+This is a golang project converting markdown to html.
+
 I started working on this becauze I wanted to create something similar to compiler.
-(For me this is also a good practice getting used to vim, wanna be more productive!)
 
 This project is work-in-progress.
 
