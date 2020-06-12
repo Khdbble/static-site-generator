@@ -6,5 +6,6 @@ ssg: ssg.go
 clean:
 	rm ./ssg *.html
 
-convert: ssg
+preview: ssg
 	./ssg test.md
+	open test.html
